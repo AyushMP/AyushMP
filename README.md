@@ -1,4 +1,4 @@
-<h1 align="center">Hi <div class="tenor-gif-embed" data-postid="21794133" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/wumpus-gif-21794133">Wumpus Sticker</a>from <a href="https://tenor.com/search/wumpus-stickers">Wumpus Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm Ayush M P</h1>
+<h1 align="center">Hi👋, I'm Ayush M P</h1>
 <h3 align="center">Currently Pursuing Computer Science Engineering From Bangalore</h3>
 
 
