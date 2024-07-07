@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush M P</h1>
 <h3 align="center">Currently Pursuing Computer Science Engineering From Bangalore</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmp" alt="ayushmp" /></a> </p>
 
 - 🔭 I’m currently working on **NFT Marketplace On Ethereum BlockChain**
 
@@ -27,3 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmp&show_icons=true&locale=en" alt="ayushmp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmp&" alt="ayushmp" /></p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/>
+</di
