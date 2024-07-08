@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Ayush M P</h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Ayush M P </h1>
 <h3 align="center">Currently Pursuing Computer Science Engineering From Bangalore</h3>
 
 
