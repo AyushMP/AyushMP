@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Ayush M P </h1>
 <h3 align="center">Currently Pursuing Computer Science Engineering From Bangalore</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmp&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmp" /> </p>
 
 - 🔭 I’m currently working on **NFT Marketplace On Ethereum BlockChain**
 
