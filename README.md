@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NFT Marketplace On Ethereum BlockChain**
 
-- 🌱 I’m currently learning **AI, Cloud Computing**
+- 🌱 I’m currently learning **ExpressJS**
 
 - 📫 How to reach me **ayushpillay1234@gmail.com**
 
