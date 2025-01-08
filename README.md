@@ -24,10 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmp&show_icons=true&locale=en" alt="ayushmp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmp&" alt="ayushmp" /></p>
-
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
